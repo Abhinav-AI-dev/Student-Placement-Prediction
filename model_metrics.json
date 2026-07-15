@@ -1,0 +1,17 @@
+{
+    "best_model": "Logistic Regression",
+    "accuracy": 86.05,
+    "precision": 92.86,
+    "recall": 86.67,
+    "f1_score": 89.66,
+    "confusion_matrix": [
+        [
+            11,
+            2
+        ],
+        [
+            4,
+            26
+        ]
+    ]
+}
